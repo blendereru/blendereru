@@ -12,6 +12,10 @@
   <a href="https://t.me/blendereru" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
+  
+  <a href="https://x.com/SanzharYE" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" heigh="25" alt="x logo"   />
+  </a>
 </div>
 
 ###
@@ -20,7 +24,7 @@
 
 ###
 
-<p align="left">I'm a young developer from Kazakhstan<br><br>- 📚 I'm currently learning KeyCloak</p>
+<p align="left">I'm a young developer from Kazakhstan<br><br>- 📚 I'm currently learning <a href="https://github.com/keycloak/keycloak">KeyCloak</a></p>
 
 ###
 
