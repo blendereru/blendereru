@@ -1,43 +1,35 @@
 <h1 align="left">Hi there 👋</h1>
 
-###
+### 👂 My name is Sanzhar
 
-<div align="left">
-  <img height="150" src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/6c1e9ea2f64005c01cd425138ee7ebde8e447dd05dae409174268216bd13ab8b.gif"  />
-</div>
+I'm using ASP.NET Core in my projects. 
 
-###
+### I love working with
 
-<div align="left">
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+### 🌱 I’m currently learning
+
+![Keycloak Badge](https://img.shields.io/badge/Keycloak-4D4D4D?logo=keycloak&logoColor=fff&style=for-the-badge)
+![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
+
+### 📫 How to reach me ?
+
+<div style="text-align: left;">
+  <a href="mailto:sanzar30062000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" 
+         alt="Gmail Badge">
+  </a>
   <a href="https://t.me/blendereru" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge" 
+         alt="Telegram Badge">
   </a>
-  
   <a href="https://x.com/SanzharYE" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" heigh="25" alt="x logo"   />
+    <img src="https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge"
+         alt="X Badge">
   </a>
 </div>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm a young developer from Kazakhstan<br><br>- 📚 I'm currently learning <a href="https://github.com/keycloak/keycloak">KeyCloak</a></p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-</div>
-
-###
