@@ -1,7 +1,6 @@
 <h1 align="left">Hi there 👋</h1>
 
-Welcome to my page!
-
+![my gif](https://github.com/blendereru/blendereru/blob/main/my_gif.gif)
 
 ## - Languages and Tools...
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
